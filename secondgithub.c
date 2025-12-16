@@ -7,6 +7,7 @@ int main()
     printf( "** first is clone **\n");
     printf(" ** second is push**\n");
     printf(" *third is pull*\n");
+    printf(" these are the things i have learnt\n");
 
 
     return 0;
